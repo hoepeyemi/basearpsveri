@@ -24,7 +24,7 @@ const BaseSepolia = {
 const metadata = {
   name: 'My Website',
   description: 'My Website description',
-  url: 'https://localhost:5173',}
+  url: 'https://basearpsveri.vercel.app/',}
 
 export const configWeb3Modal = () => createWeb3Modal({
   ethersConfig: defaultConfig({ metadata }),
