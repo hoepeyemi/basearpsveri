@@ -13,18 +13,18 @@ const BaseSepolia = {
   rpcUrl: import.meta.env.VITE_INFURA_RPC,
 };
 
-// const BaseMainnet = {
-//   chainId: 8453,
-//   name: "Base mainnet",
-//   currency: "ETH",
-//   explorerUrl: "https://basescan.org/",
-//   rpcUrl: import.meta.env.VITE_INFURA_RPC,
-// };
+const BaseMainnet = {
+  chainId: 8453,
+  name: "Base mainnet",
+  currency: "ETH",
+  explorerUrl: "https://basescan.org/",
+  rpcUrl: import.meta.env.VITE_INFURA_RPC,
+};
 
 const metadata = {
   name: 'My Website',
   description: 'My Website description',
-  url: 'https://basearpsveri.vercel.app/',}
+  url: 'https://localhost:5173',}
 
 export const configWeb3Modal = () => createWeb3Modal({
   ethersConfig: defaultConfig({ metadata }),
