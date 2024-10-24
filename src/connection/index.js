@@ -18,13 +18,15 @@ const BaseMainnet = {
   name: "Base mainnet",
   currency: "ETH",
   explorerUrl: "https://basescan.org/",
-  rpcUrl: import.meta.env.VITE_INFURA_RPC,
+  rpcUrl: import.meta.env.VITE_INFURA_MAINNET_RPC,
 };
 
 const metadata = {
   name: 'My Website',
   description: 'My Website description',
-  url: 'https://localhost:5173',}
+  url: 'https://localhost:5173',
+  icons: ['https://localhost:5173']
+}
 
 export const configWeb3Modal = () => createWeb3Modal({
   ethersConfig: defaultConfig({ metadata }),
