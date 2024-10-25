@@ -3,7 +3,7 @@ import aboutimage from "../assets/aboutimage.svg";
 const About = () => {
   return (
     <div>
-      <h2 className="text-[#3F9AAE] lg:text-[36px] md:text-[36px] text-[26px] font-[700] my-8 text-center mb-12">
+      <h2 className="text-[#000000] lg:text-[36px] md:text-[36px] text-[26px] font-[700] my-8 text-center mb-12">
         How Basearpsveris work
       </h2>
       <div>

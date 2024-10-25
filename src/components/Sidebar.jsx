@@ -21,7 +21,7 @@ const Sidebar = () =>  {
 
   return (
     <div className='bg-[#C7D5D8] w-[20%] text-[rgb(15,22,15)] p-8 py-12 h-[100vh] hidden lg:flex md:flex flex-col'>
-      <img src={logo} alt='logo'className="mb-20" />
+      <img src={logo} alt="logo" className="mb--350 w-32" />
       <NavLink to="/dashboard" className="text-[14px] text-[#0F160F] flex items-center py-4 mb-4 px-4 hover:text-[#0C3B45]" style={({isActive}) => isActive ? activeStyle : null } end><CgHomeAlt className="mr-4" />Dashboard</NavLink>
       <NavLink to="chat" className="text-[14px] text-[#0F160F]  flex items-center py-4 mb-4 px-6  hover:text-[#0C3B45]" style={({isActive}) => isActive ? activeStyle : null }><BiBox className="mr-4" /> Chat</NavLink>
       <NavLink to="createprofile" className="text-[14px] text-[#0F160F]  flex items-center py-4 mb-4 px-6  hover:text-[#0C3B45]" style={({isActive}) => isActive ? activeStyle : null }><IoIosAddCircleOutline  className="mr-4" />Create Profile</NavLink>

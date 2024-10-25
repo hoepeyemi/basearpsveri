@@ -7,7 +7,7 @@ import { MdMailOutline } from "react-icons/md";
 const Footer = () => {
   return (
     <footer
-      className="bg-[#0C3B45] text-white bg-no-repeat py-8 px-2"
+      className="bg-[#000000] text-white bg-no-repeat py-8 px-2"
       style={{
         backgroundImage: `url(${bannerLogo})`,
         backgroundSize: "30%",

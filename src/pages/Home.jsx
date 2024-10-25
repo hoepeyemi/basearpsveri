@@ -17,7 +17,7 @@ const Home = () => {
             Trade unused/spoilt products on the blockchain, to support the needy, with transparency and ease of tracking using the block explorer
           </p>
           <div className="mt-6">
-            <button className="bg-[#3F9AAE] rounded-lg p-4 text-white mr-4 lg:text-[20px] md:text-[20px] text-[18px]">
+            <button className="bg-[#000000] rounded-lg p-4 text-white mr-4 lg:text-[20px] md:text-[20px] text-[18px]">
               Sell Products
             </button>
             <button className="border border-[#3F9AAE] rounded-lg p-4 text-[#3F9AAE] bg-white lg:text-[20px] md:text-[20px] text-[18px]">
@@ -39,7 +39,7 @@ const Home = () => {
       </section>
       <section className="bg-white py-20">
         <div className="lg:w-[90%] md:w-[90%] w-[100%] mx-auto">
-          <h2 className="lg:text-[32px] md:text-[32px] text-[24px] font-[700] text-[#3F9AAE] lg:w-[70%] md:w-[70%] w-[100%] my-12 font-titiliumweb text-center lg:text-left md:text-left">
+          <h2 className="lg:text-[32px] md:text-[32px] text-[24px] font-[700] text-[#000000] lg:w-[70%] md:w-[70%] w-[100%] my-12 font-titiliumweb text-center lg:text-left md:text-left">
             Welcome to Basearpsveris, where e-commerce helps the needy
           </h2>
           <div className="flex flex-col lg:flex-row md:flex-row justify-between">
