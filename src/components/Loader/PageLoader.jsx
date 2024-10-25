@@ -7,12 +7,12 @@ const PageLoader = () => {
       <FidgetSpinner
         height={80}
         width={80}
-        color='#3F9AAE'
+        color='#FFFFFF'
         wrapperStyle={{}}
         wrapperClass='fidget-spinner-wrapper'
         visible={true}
         ariaLabel='fidget-spinner-loading'
-        secondaryColor='#0C3B45'
+        secondaryColor='#000000'
         strokeWidth={2}
         strokeWidthSecondary={2}
       />
