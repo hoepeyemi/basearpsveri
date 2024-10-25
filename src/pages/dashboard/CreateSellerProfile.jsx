@@ -25,7 +25,7 @@ const CreateSellerProfile = () => {
    <main>
      <div className='flex flex-col lg:flex-row md:flex-row bg-[#0C3B45] rounded-[20px] w-[100%] text-white'>
         <div className='lg:w-[60%] md:w-[60%] w-[100%] p-8'>
-            <h2 className='lg:text-[24px] md:text-[24px] text-[18px] font-bold mb-4'>Basearpsveris - Where environmental consciousness meets blockchain innovation</h2>
+            <h2 className='lg:text-[24px] md:text-[24px] text-[18px] font-bold mb-4'>Basearpsveri - Where environmental consciousness meets blockchain innovation</h2>
             <p>To get started listing your eco friendly product, create a seller's profile.</p>
             <div className='mt-6'>
             <CreateProfile />

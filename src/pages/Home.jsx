@@ -40,7 +40,7 @@ const Home = () => {
       <section className="bg-white py-20">
         <div className="lg:w-[90%] md:w-[90%] w-[100%] mx-auto">
           <h2 className="lg:text-[32px] md:text-[32px] text-[24px] font-[700] text-[#000000] lg:w-[70%] md:w-[70%] w-[100%] my-12 font-titiliumweb text-center lg:text-left md:text-left">
-            Welcome to Basearpsveris, where e-commerce helps the needy
+            Welcome to Basearpsveri, where e-commerce helps the needy
           </h2>
           <div className="flex flex-col lg:flex-row md:flex-row justify-between">
             <div className="py-6 border-t-2 border-[#3F9AAE] lg:w-[30%] md:w-[30%] w-[90%] mx-auto mb-4">
@@ -56,7 +56,7 @@ const Home = () => {
                 Be a Part of the Future
               </h3>
               <p>
-                Basearpsveris harnesses the potential of blockchain and technology for a better world.
+                Basearpsveri harnesses the potential of blockchain and technology for a better world.
               </p>
             </div>
             <div className="py-6 border-t-2 border-[#3F9AAE] lg:w-[30%] md:w-[30%] w-[90%] mx-auto mb-4">
@@ -64,7 +64,7 @@ const Home = () => {
                 Simple and Engaging
               </h3>
               <p>
-                Basearpsveris makes sustainability accessible and engaging. Embrace the future of sustainability
+                Basearpsveri makes sustainability accessible and engaging. Embrace the future of sustainability
               </p>
             </div>
           </div>

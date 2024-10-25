@@ -1,4 +1,4 @@
-# Product Name: Basearpsveris (Tokenized Recycling Rewards Platform)
+# Product Name: Basearpsveri (Tokenized Recycling Rewards Platform)
 
 ## Product Overview:
 Basearpsveri is a decentralized marketplace designed to promote sustainable waste management and recycling by incentivizing individuals, recyclable material sellers, recycling centers, companies, and other eco-conscious buyers to actively participate. Leveraging blockchain technology, Basearpsveri creates a transparent ecosystem where sellers can list their recyclable materials, and buyers can purchase these materials seamlessly and securely. The platform aims to bridge the gap between buyers seeking eco-friendly products and sellers offering recyclable materials, fostering a sustainable marketplace that benefits both parties while contributing to environmental conservation efforts.
@@ -57,11 +57,11 @@ These deployments provide the foundation for secure, transparent transactions wi
 
 ## Demo and MVP:
 
-`MVP: https://Basearpsveris-based.vercel.app/ `
+`MVP: https://Basearpsveri-based.vercel.app/ `
 
 
 `Demo Video: https://youtu.be/wr3-0T4n5xM`
 
-`Repo:  https://github.com/pheobeayo/Basearpsveris-based `
+`Repo:  https://github.com/pheobeayo/Basearpsveri-based `
 
 Pitch Slide: https://www.canva.com/design/DAGRaEgPm2k/hk0FTDd_3MauN9KbeRwBJw/view?utm_content=DAGRaEgPm2k&utm_campaign=designshare&utm_medium=link&utm_source=editor
