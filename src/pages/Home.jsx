@@ -14,7 +14,7 @@ const Home = () => {
             Local spot/Marketplace for Traders, Artisans, Small business owners.
           </h1>
           <p className="lg:text-[24px] md:text-[24px] text-[18px] text-[#0F160F]/80">
-            Trade products on the blockchain, earn rewards, with transparency and ease of tracking using the block explorer
+            Trade unused/spoilt products on the blockchain, to support the needy, with transparency and ease of tracking using the block explorer
           </p>
           <div className="mt-6">
             <button className="bg-[#3F9AAE] rounded-lg p-4 text-white mr-4 lg:text-[20px] md:text-[20px] text-[18px]">
@@ -40,17 +40,15 @@ const Home = () => {
       <section className="bg-white py-20">
         <div className="lg:w-[90%] md:w-[90%] w-[100%] mx-auto">
           <h2 className="lg:text-[32px] md:text-[32px] text-[24px] font-[700] text-[#3F9AAE] lg:w-[70%] md:w-[70%] w-[100%] my-12 font-titiliumweb text-center lg:text-left md:text-left">
-            Welcome to Basearpsveris, where environmental consciousness meets
-            blockchain innovation
+            Welcome to Basearpsveris, where e-commerce helps the needy
           </h2>
           <div className="flex flex-col lg:flex-row md:flex-row justify-between">
             <div className="py-6 border-t-2 border-[#3F9AAE] lg:w-[30%] md:w-[30%] w-[90%] mx-auto mb-4">
               <h3 className="lg:text-[24px] md:text-[24px] text-[18px] font-[700] font-titiliumweb mb-4">
-                Tangible Rewards
+                Tradeable productss
               </h3>
               <p>
-                Recycling is now more rewarding than ever. Earn tokens for every
-                eco-conscious action you take.
+                E-commerce does not favor only the traders, It can reduce poverty too.
               </p>
             </div>
             <div className="py-6 border-t-2 border-[#3F9AAE] lg:w-[30%] md:w-[30%] w-[90%] mx-auto mb-4">
@@ -73,7 +71,7 @@ const Home = () => {
         </div>
       </section>
       <section className=" my-10">
-        <h2 className="px-4 lg:px-0 md:px-0 lg:text-[32px] md:text-[32px] text-[24px] font-[700] my-6 flex justify-between flex-col lg:flex-row md:flex-row  w-[90%] mx-auto font-titiliumweb items-center text-center lg:text-left md:text-left">Recyclable materials for sale (Prices are in Unit of Measure) <span className="lg:text-[24px] md:text-[24px] text-[18px] font-[400]">View More</span></h2>
+        <h2 className="px-4 lg:px-0 md:px-0 lg:text-[32px] md:text-[32px] text-[24px] font-[700] my-6 flex justify-between flex-col lg:flex-row md:flex-row  w-[90%] mx-auto font-titiliumweb items-center text-center lg:text-left md:text-left">Unused materials for sale (Prices are in Unit of Measure) <span className="lg:text-[24px] md:text-[24px] text-[18px] font-[400]">View More</span></h2>
         <MarketplaceHome/>
       </section>
       <section id="about-us" className="lg:w-[90%] md:w-[90%] w-[100%] mx-auto my-14">
